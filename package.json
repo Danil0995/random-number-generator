@@ -14,5 +14,8 @@
     "generator"
   ],
   "author": "danilo bono <bonodanilo@outlook.it>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
 }
